@@ -4,7 +4,7 @@ Its a web App that connects a salon Artist to a customer
 ![makeAppointment](https://user-images.githubusercontent.com/54258359/159257539-2dd1b18b-ffe4-42f8-ab60-251ba45c4832.PNG)
 ![AppointmentConfirmation](https://user-images.githubusercontent.com/54258359/159257577-acfa3cd1-1a43-4fb5-984e-387c1084ff51.PNG)
 ![salonArstistlogin](https://user-images.githubusercontent.com/54258359/159257628-fc4abae0-e5e0-492b-a150-a034e1c92117.PNG)
-![Uploading ManageServices.PNG![AdminModule](https://user-images.githubusercontent.com/54258359/159257696-9029886a-dc95-4612-85f8-ded50da496c8.PNG)
+
 ![AddServices](https://user-images.githubusercontent.com/54258359/159257710-cbcfe301-bdb9-436f-b977-88f3cef3867d.PNG)
 ![AcceptedAppointments](https://user-images.githubusercontent.com/54258359/159257718-343d1682-3009-40b3-b8d3-6335bce2b0f1.PNG)
 ![AllAppointments](https://user-images.githubusercontent.com/54258359/159257733-70849503-b135-4f08-98b4-d96ba37533ba.PNG)
