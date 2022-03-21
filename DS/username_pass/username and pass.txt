@@ -1,0 +1,9 @@
+ADMIN
+username : admin
+password:Test@123
+client
+username: Yusra
+password:123456
+SalonArtist
+username:salon1
+password:123456
